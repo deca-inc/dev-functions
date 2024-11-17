@@ -1,0 +1,21 @@
+parameters: {}
+environment: {
+  HELLO: "${HELLO}",
+}
+packages:
+    - name: example
+      shared: false
+      environment: {}
+      parameters: {}
+      annotations: {}
+      functions:
+        - name: hello
+          binary: false
+          main: ""
+          runtime: nodejs:18
+          web: true
+          webSecure: false
+          parameters: {}
+          environment: {}
+          annotations: {}
+          limits: {}
