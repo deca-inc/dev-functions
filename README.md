@@ -1,6 +1,6 @@
-# Typescript + Digital Ocean Functions Dev Environment Template
+# Typescript + DO Functions Dev Environment Template
 
-Unofficial, I just needed a way to build/test locally - figured it would be useful to share around. This is a template to be able to test locally, create a build, and deploy. Clone and modify as you wish!
+Unofficial, this is a template to be able to test locally, create a build, and deploy Digital Ocean Functions. Clone and modify as you wish!
 
 ## How to use?
 
